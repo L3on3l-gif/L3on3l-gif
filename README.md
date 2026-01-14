@@ -1,4 +1,4 @@
-### ¡Hola! Soy Lionel 👋
+### ¡Hola! Soy Leonel 👋
 
 Soy una persona a la que la tecnologia le encanta, mas que nada la programacion. Actualmente estoy profundizando mis conocimientos en CSS, JavaScript, Java, HTML, CSS y MySQL.
 
