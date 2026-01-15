@@ -7,7 +7,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Leonel</h1></summary>
   </ul>
 </div>
-<img src="banner.png" alt="Leonel" width="200" height="200" style="border-radius: 50%; border: 3px solid #61dafb;" />
+<img width="2912" height="1440" alt="banner" src="https://github.com/user-attachments/assets/74554316-e7f7-47bb-923a-1caae17be758" />
+
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
