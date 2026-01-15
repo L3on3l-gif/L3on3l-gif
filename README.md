@@ -7,7 +7,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Leonel</h1></summary>
   </ul>
 </div>
-<img width="2912" height="1440" alt="banner" src="https://github.com/user-attachments/assets/74554316-e7f7-47bb-923a-1caae17be758" />
+<img width="2755" height="1430" alt="banner1" src="https://github.com/user-attachments/assets/a569d2ea-0418-4ae4-bc4a-62591a30c448" />
+
 
 
 <!--h2 without bottom border-->
