@@ -7,7 +7,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Leonel</h1></summary>
   </ul>
 </div>
-<img src=""
+<img src="banner.png" alt="Leonel" width="200" height="200" style="border-radius: 50%; border: 3px solid #61dafb;" />
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
