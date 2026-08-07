@@ -61,15 +61,12 @@
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
 </p>
 -----
-<p align="center">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=L3on3l-gif&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="Mis estadísticas de GitHub" />
-  
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3on3l-gif&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Mis lenguajes más usados" />
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=L3on3l-gif&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=L3on3l-gif&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=L3on3l-gif&theme=darcula&hide_border=true&background=FFFFFF00" alt="Mi racha de contribuciones" />
-  <br>
-  <br>
- </p>
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com?user=L3on3l-gif&theme=darcula&hide_border=true&background=FFFFFF00)
+
+</div>
