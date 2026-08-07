@@ -63,13 +63,13 @@
 -----
 <p align="center">
   <!-- Estadísticas generales de tu perfil -->
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=L3on3l-gif&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api?username=L3on3l-gif&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="Mis estadísticas de GitHub" />
   
   <!-- Tus lenguajes más utilizados -->
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=L3on3l-gif&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3on3l-gif&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Mis lenguajes más usados" />
   
-  <!-- Tu racha de contribuciones (La que se ve en image_6fc773.png) -->
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=L3on3l-gif&theme=darcula&hide_border=true&background=FFFFFF00">
+  <!-- Tu racha de contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=L3on3l-gif&theme=darcula&hide_border=true&background=FFFFFF00" alt="Mi racha de contribuciones" />
   <br>
   <br>
  </p>
